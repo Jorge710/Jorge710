@@ -4,7 +4,7 @@ Soy un chico ecuatoriano que le gusta aprender sobre la tecnologia.
 
 Cuento con el conocimiento en desarrollo Web en el lado del frontend y backend.
 
-Estudie en la universidad Escuela Politécnica Nacional
+Estudie la carrera de Análisis de Sistemas Informáticos en la universidad Escuela Politécnica Nacional
 <!--
 **Jorge710/Jorge710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
